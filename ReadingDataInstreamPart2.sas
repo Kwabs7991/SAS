@@ -6,7 +6,7 @@
 */
 
 Data drinks;
-input brands$ 1-9 origins$ 10-12 price 13-17;
+input brands$ 1-9 origins$ 10-12 price 13-17;  /* These are called column definitions. Due to there being no delimeter we must count up in terms of space how long the variable is*/
 
 /*
  * CARDS- This basically says that thgere are data lines following this statement.
